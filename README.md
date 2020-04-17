@@ -1,3 +1,3 @@
-Data Science: Visualização de Dados em Python
+Data Science: Visualização de Dados com Python
 
 link: https://www.udemy.com/course/visualizacao-de-dados-com-python/ 
